@@ -1,5 +1,13 @@
 # skpm — Skill Manager
 
+[![CI](https://github.com/domehahn/skpm/actions/workflows/ci.yml/badge.svg)](https://github.com/domehahn/skpm/actions/workflows/ci.yml)
+[![Release](https://github.com/domehahn/skpm/actions/workflows/release.yml/badge.svg)](https://github.com/domehahn/skpm/actions/workflows/release.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/domehahn/skpm)](https://goreportcard.com/report/github.com/domehahn/skpm)
+[![Go Reference](https://pkg.go.dev/badge/github.com/domehahn/skpm.svg)](https://pkg.go.dev/github.com/domehahn/skpm)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/domehahn/skpm)](https://github.com/domehahn/skpm/blob/main/go.mod)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/domehahn/skpm/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/domehahn/skpm)](https://github.com/domehahn/skpm/releases)
+
 A production-ready package manager for AI agent skills. Manages [SKILL.md](https://docs.gitlab.com/user/duo_agent_platform/customize/agent_skills/)-based capability bundles as versioned, verifiable artifacts — for Claude Code, GitLab Duo, GitHub Copilot, and Codex.
 
 Think `npm` or `cargo`, but for agent skills.
